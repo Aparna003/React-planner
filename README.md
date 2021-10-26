@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple note or task planner in React.
+
+## Check the hosted site :
+
 
 ## Available Scripts
 
