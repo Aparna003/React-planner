@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "24.06.2021 at 10:30 am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting with team",
+      "day": "June 26, 2021 at 12 pm",
+      "reminder": true
+    },
+    {
+      "text": "cooking",
+      "day": "26 october 1:30pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "write test",
+      "day": "",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
